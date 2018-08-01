@@ -1,8 +1,11 @@
 # Painting-Generator
 
 Rules:1.Tap to add markers.
+
 2.Draw when star appears.
+
 3.Tap to choose frame.
+
 
 Are you ready?
 
